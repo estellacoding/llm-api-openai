@@ -5,9 +5,3 @@
 - 利用 OpenAI 官方 Python 套件調用 API。
 - 實作 HTTP 請求，直接調用 OpenAI API。
 - 比較 v0.28 與 1.57.3 版本程式碼的差異。
-
-# 專案結構
-llm-api-openai/
-├── llm-api-openai.ipynb   # 主程式碼檔案
-├── .env                   # 環境變數檔案
-└── README.md              # 專案說明文件
