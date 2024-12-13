@@ -6,5 +6,5 @@
 - 實作 HTTP 請求，直接調用 OpenAI API。
 - 比較 v0.28 與 1.57.3 版本程式碼的差異。
 
-# 相關連結
-[【LLM API】實作串接 OpenAI](https://estellacoding.github.io/blog/llm-api-openai/)。
+# 文章連結
+[【LLM API】實作串接 OpenAI](https://estellacoding.github.io/blog/llm-api-openai/)
