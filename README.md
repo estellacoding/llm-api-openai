@@ -1,1 +1,1 @@
-# llm-api-openai
+# 【LLM API】實作串接 OpenAI
